@@ -16,3 +16,7 @@
   color: white;
   text-decoration: none;
 }
+
+.login > .spotify__link {
+  text-transform: uppercase;
+}
